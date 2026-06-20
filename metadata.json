@@ -1,0 +1,8 @@
+{
+  "name": "생태 유전체 맞춤 식단 비서",
+  "description": "류마티스 관절염 환자를 위한 생태 유전체 맞춤 식단 성분 분석 비서입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
